@@ -51,6 +51,10 @@ The curve being above the diagonal line (which represents random guessing) confi
 Conclusion:
 The model demonstrates fair discriminatory ability, with an AUC of 0.75, indicating that it is reasonably effective in distinguishing between the two classes but could benefit from further optimization to improve its predictive performance.
 
+Result :
+<img width="517" alt="Screenshot 2024-08-18 at 7 30 06 PM" src="https://github.com/user-attachments/assets/2c909cba-f1a7-4443-ac8a-fcc450c629e5">
+
+Finally cleared the challange with the grade of 73%
 
 
 
